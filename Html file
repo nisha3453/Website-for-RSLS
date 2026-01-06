@@ -1,0 +1,109 @@
+# Website-for-RSLS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Radiant Spark Life School</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <img src="images/logo.png" alt="Radiant Spark Life School">
+    <h1>Radiant Spark Life School</h1>
+  </div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#management">Management</a>
+    <a href="#activities">Activities</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home" class="hero">
+  <h2>Welcome to Radiant Spark Life School</h2>
+  <p>
+    Nurturing young minds with love, care, and holistic education.<br>
+    🌱 குழந்தைகளின் முழுமையான வளர்ச்சிக்கான பள்ளி 🌱<br>
+    🌱 बच्चों के सर्वांगीण विकास के लिए 🌱
+  </p>
+</section>
+
+<section id="about" class="section">
+  <h2>About Us</h2>
+  <p>
+    Radiant Spark Life School is dedicated to providing a safe, joyful,
+    and activity-based learning environment for young children.
+    We focus on academic excellence along with physical, emotional,
+    and social development.
+  </p>
+</section>
+
+<section id="management" class="section">
+  <h2>Management</h2>
+  <div class="card">
+    <img src="images/correspondent.jpg" alt="Correspondent">
+    <h3>Mrs. Reshma Rasheed</h3>
+    <p>
+      Correspondent & Founder<br>
+      Psychologist & Special Educator
+    </p>
+  </div>
+</section>
+
+<section id="activities" class="section">
+  <h2>Our Activities</h2>
+  <div class="activities">
+    <div class="box">💃 Dance & Creative Activities</div>
+    <div class="box">🏊 Swimming Classes</div>
+    <div class="box">♟️ Chess Classes</div>
+    <div class="box">🎨 Classroom Learning</div>
+  </div>
+</section>
+
+<section id="gallery" class="section">
+  <h2>Gallery</h2>
+
+  <h3>Campus & Classrooms</h3>
+  <div class="gallery">
+    <img src="images/campus1.jpg">
+    <img src="images/classroom1.jpg">
+    <img src="images/playground.jpg">
+  </div>
+
+  <h3>Christmas Celebration</h3>
+  <div class="gallery">
+    <img src="images/christmas1.jpg">
+  </div>
+
+  <h3>Dance & Activity Classes</h3>
+  <div class="gallery">
+    <img src="images/dance1.jpg">
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact Us</h2>
+  <p>
+    📍 Radiant Spark Life School<br>
+    📞 9003496064<br>
+    📧 radiantsparklifeschool@gmail.com
+  </p>
+
+  <iframe 
+    src="https://www.google.com/maps?q=Radiant%20Spark%20Life%20School&output=embed"
+    width="100%" height="300" style="border:0;" allowfullscreen loading="lazy">
+  </iframe>
+</section>
+
+<footer>
+  <p>© 2026 Radiant Spark Life School. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
